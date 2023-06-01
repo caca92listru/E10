@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18a2497b.css",
+    "main.js": "/static/js/main.a398de3d.js",
+    "static/media/foto_mono.jpg": "/static/media/foto_mono.5057352ff301f6ffa65e.jpg",
+    "static/media/News_Portal.jpg": "/static/media/News_Portal.15c3b7993129dd590992.jpg",
+    "static/media/great_sea_battle.jpg": "/static/media/great_sea_battle.fae091f335025cbf8f1c.jpg",
+    "static/media/weather.jpg": "/static/media/weather.4d2def98b14cfe9b8022.jpg",
+    "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.7ba049054c65cb8a12da.png",
+    "index.html": "/index.html",
+    "main.18a2497b.css.map": "/static/css/main.18a2497b.css.map",
+    "main.a398de3d.js.map": "/static/js/main.a398de3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a2497b.css",
+    "static/js/main.a398de3d.js"
+  ]
+}
